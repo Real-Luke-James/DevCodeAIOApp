@@ -1,0 +1,2 @@
+MainPackage=C:\Users\LukeV\source\repos\Developer-Coder All in One App - UWP\Developer-Coder All in One App - UWP\bin\x64\Debug\Developer-Coder All in One App - UWP_1.0.0.0_x64_Debug.msix
+SymbolPackage=C:\Users\LukeV\source\repos\Developer-Coder All in One App - UWP\Developer-Coder All in One App - UWP\obj\x64\Debug\Symbols\Developer-Coder All in One App - UWP_1.0.0.0_x64_Debug.appxsym

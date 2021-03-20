@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="47AFF3D6-A819-49EF-A3FC-1F179BD51180" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Developer_Coder_All_in_One_App___UWP.xr.xml" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Developer_Coder_All_in_One_App___UWP.xr.xml">
+				<Candidate type="Path">
+					<Value>Developer_Coder_All_in_One_App___UWP.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.UI.Xaml">
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Microsoft.UI.Xaml/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="Page.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Styles/Page.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBlock.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Styles/TextBlock.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_Colors.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Styles/_Colors.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_FontSizes.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Styles/_FontSizes.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_Thickness.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Styles/_Thickness.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="FirstRunDialog.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/FirstRunDialog.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GooglePage.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/GooglePage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MicrosoftDocsPage.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/MicrosoftDocsPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SchemeActivationSamplePage.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/SchemeActivationSamplePage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SettingsPage.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/SettingsPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShellPage.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/ShellPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StackOverflowPage.xbf" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/Views/StackOverflowPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactions">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CallMethodActionValidMethodNotFoundExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/CallMethodActionValidMethodNotFoundExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find method named {0} on object of type {1} that matches the expected signature.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotFindEventNameExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/CannotFindEventNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find an event named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotFindPropertyNameExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotFindPropertyNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find a property named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotSetValueExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotSetValueExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot assign value of type {0} to property {1} of type {2}. The {1} property can be assigned only values of type {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionPropertyIsReadOnlyExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionPropertyIsReadOnlyExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Property {0} defined by type {1} does not expose a set method and therefore cannot be modified.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EventNotSupportedExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/EventNotSupportedExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Event {0} is not supported. Consider implementing a custom IBehavior to respond to this event.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GoToStateActionTargetHasNoStateGroups" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/GoToStateActionTargetHasNoStateGroups">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Target {0} does not define any VisualStateGroups.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLeftOperand" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/InvalidLeftOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidOperands" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/InvalidOperands">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} and Value property of type {1} cannot be used with operator {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRightOperand" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactions/Strings/InvalidRightOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactivity">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactivity/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DuplicateBehaviorInCollectionExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactivity/Strings/DuplicateBehaviorInCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot add an instance of a behavior to a BehaviorCollection more than once.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAssociatedObjectExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactivity/Strings/InvalidAssociatedObjectExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AssociatedObject is of type {0} but should be of type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonActionAddedToActionCollectionExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactivity/Strings/NonActionAddedToActionCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IAction types are supported in an ActionCollection.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonBehaviorAddedToBehaviorCollectionExceptionMessage" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Microsoft.Xaml.Interactivity/Strings/NonBehaviorAddedToBehaviorCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IBehavior types are supported in a BehaviorCollection.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="AppDescription" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/AppDescription">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Developer_Coder_All_in_One_App___UWP</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppDisplayName" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/AppDisplayName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Developer_Coder_All_in_One_App___UWP</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="FirstRunDialog">
+				<NamedResource name="PrimaryButtonText" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/FirstRunDialog/PrimaryButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ok</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Title" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/FirstRunDialog/Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Welcome</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FirstRun_Body">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/FirstRun_Body/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Replace the content of this dialog with whatever content is appropriate to your app.
+You might want to explain key features or functionality.
+Don't feel restricted to just text. You can also include images and animations if you wish too.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_BrowserBackButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_BrowserBackButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_BrowserBackButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_BrowserForwardButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_BrowserForwardButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Forward</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_BrowserForwardButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Forward</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_FailedMessage">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_FailedMessage/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page failed to load. Check connection and retry.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_Loading">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_Loading/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Loading...</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_OpenInBrowserButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_OpenInBrowserButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Open in browser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_OpenInBrowserButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Open in browser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_RefreshBrowserButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_RefreshBrowserButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Refresh</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_RefreshBrowserButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Refresh</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Google_Retry">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Google_Retry/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>retry</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_BrowserBackButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_BrowserBackButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_BrowserBackButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_BrowserForwardButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_BrowserForwardButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Forward</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_BrowserForwardButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Forward</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_FailedMessage">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_FailedMessage/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page failed to load. Check connection and retry.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_Loading">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_Loading/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Loading...</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_OpenInBrowserButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_OpenInBrowserButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Open in browser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_OpenInBrowserButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Open in browser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_RefreshBrowserButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_RefreshBrowserButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Refresh</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_RefreshBrowserButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Refresh</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftDocs_Retry">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/MicrosoftDocs_Retry/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>retry</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SchemeActivationSamplePage_Description">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/SchemeActivationSamplePage_Description/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This is a sample page that will show activation parameters if the app is activated from Deep Linking.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_About">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_About/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>About this application</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_AboutDescription">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_AboutDescription/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Settings page placeholder text.  Your app description goes here.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_Personalization">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_Personalization/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Personalization</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_PrivacyTermsLink">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_PrivacyTermsLink/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigateUri" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_PrivacyTermsLink/NavigateUri">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>https://YourPrivacyUrlGoesHere/</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_Theme">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_Theme/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Choose Theme</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_Theme_Dark">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_Theme_Dark/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Dark</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_Theme_Default">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_Theme_Default/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Windows default</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Settings_Theme_Light">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Settings_Theme_Light/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Light</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Shell_Google">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Shell_Google/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Google</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Shell_MicrosoftDocs">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Shell_MicrosoftDocs/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>MicrosoftDocs</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Shell_SchemeActivationSample">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Shell_SchemeActivationSample/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>SchemeActivationSample</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Shell_StackOverflow">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/Shell_StackOverflow/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>StackOverflow</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_BrowserBackButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_BrowserBackButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_BrowserBackButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_BrowserForwardButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_BrowserForwardButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Forward</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_BrowserForwardButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Forward</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_FailedMessage">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_FailedMessage/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page failed to load. Check connection and retry.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_Loading">
+				<NamedResource name="Text" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_Loading/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Loading...</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_OpenInBrowserButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_OpenInBrowserButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Open in browser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_OpenInBrowserButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Open in browser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_RefreshBrowserButton">
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Automation]AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_RefreshBrowserButton/[using:Windows.UI.Xaml.Automation]AutomationProperties/Name">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Refresh</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="[using:Windows.UI.Xaml.Controls]ToolTipService">
+					<NamedResource name="ToolTip" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_RefreshBrowserButton/[using:Windows.UI.Xaml.Controls]ToolTipService/ToolTip">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Refresh</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="StackOverflow_Retry">
+				<NamedResource name="Content" uri="ms-resource://47AFF3D6-A819-49EF-A3FC-1F179BD51180/Resources/StackOverflow_Retry/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>retry</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
